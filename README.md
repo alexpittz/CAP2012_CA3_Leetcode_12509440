@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0054-spiral-matrix](https://github.com/alexpittz/CAP2012_CA3_Leetcode_12509440/tree/master/0054-spiral-matrix) |
 | [0560-subarray-sum-equals-k](https://github.com/alexpittz/CAP2012_CA3_Leetcode_12509440/tree/master/0560-subarray-sum-equals-k) |
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/alexpittz/CAP2012_CA3_Leetcode_12509440/tree/master/1700-number-of-students-unable-to-eat-lunch) |
 ## Hash Table
@@ -25,5 +26,10 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0054-spiral-matrix](https://github.com/alexpittz/CAP2012_CA3_Leetcode_12509440/tree/master/0054-spiral-matrix) |
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/alexpittz/CAP2012_CA3_Leetcode_12509440/tree/master/1700-number-of-students-unable-to-eat-lunch) |
+## Matrix
+|  |
+| ------- |
+| [0054-spiral-matrix](https://github.com/alexpittz/CAP2012_CA3_Leetcode_12509440/tree/master/0054-spiral-matrix) |
 <!---LeetCode Topics End-->
