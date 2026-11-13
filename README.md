@@ -32,4 +32,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/alexpittz/CAP2012_CA3_Leetcode_12509440/tree/master/0054-spiral-matrix) |
+## Linked List
+|  |
+| ------- |
+| [0024-swap-nodes-in-pairs](https://github.com/alexpittz/CAP2012_CA3_Leetcode_12509440/tree/master/0024-swap-nodes-in-pairs) |
+## Recursion
+|  |
+| ------- |
+| [0024-swap-nodes-in-pairs](https://github.com/alexpittz/CAP2012_CA3_Leetcode_12509440/tree/master/0024-swap-nodes-in-pairs) |
 <!---LeetCode Topics End-->
